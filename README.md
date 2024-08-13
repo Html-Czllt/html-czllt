@@ -30,4 +30,3 @@
     </a>
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" style="max-width: 100%;"/>
