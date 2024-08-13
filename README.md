@@ -26,7 +26,6 @@
 
 <p align="center">
     <a href="https://gist.github.com/Html-Czllt">
-        <img src="https://profile-counter.glitch.me/Html-Czllt/count.svg" alt="Html-Czllt :: Visitor's Count"/>
     </a>
 </p>
 
