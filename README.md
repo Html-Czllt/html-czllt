@@ -20,8 +20,3 @@
         <img src="https://github-profile-trophy.vercel.app/?username=Html-Czllt&theme=onestar&no-frame=true&column=3&row=2" width="38%" alt="Html-Czllt's trophy stats"/>
     </a>
 </p>
-
-<!-- Removei o contador de visitantes e adicionei o gráfico de atividade -->
-<p align="center">
-    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" style="max-width: 100%;"/>
-</p>
