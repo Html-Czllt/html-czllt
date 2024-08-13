@@ -9,10 +9,6 @@
 
 </p>
 
-<a href="https://rextester.com/l/kotlin_online_compiler">
-    <img src="./assets/colored.png" width="100%" alt="kotlin_online_compiler"/>
-</a>
-
 <p align="center">
     <a href="https://wakatime.com/@HtmlCzllt">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Html-Czllt&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph"/>
@@ -28,14 +24,10 @@
     </a>
 </p>
 
-<a href="https://rextester.com/l/python3_online_compiler">
-    <img src="./assets/colored.png" width="100%" alt="python3_online_compiler"/>
-</a>
-
 <p align="center">
     <a href="https://gist.github.com/Html-Czllt">
         <img src="https://profile-counter.glitch.me/Html-Czllt/count.svg" alt="Html-Czllt :: Visitor's Count"/>
     </a>
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;"/>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" style="max-width: 100%;"/>
