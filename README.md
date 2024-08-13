@@ -21,9 +21,7 @@
     </a>
 </p>
 
+<!-- Removei o contador de visitantes e adicionei o gráfico de atividade -->
 <p align="center">
-    <a href="https://gist.github.com/Html-Czllt">
-        <img src="https://profile-counter.glitch.me/Html-Czllt/count.svg" alt="Html-Czllt :: Visitor's Count"/>
-    </a>
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" style="max-width: 100%;"/>
 </p>
-
