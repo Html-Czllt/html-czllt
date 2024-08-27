@@ -25,6 +25,6 @@
 <p align="center">
     <!-- Contador de Linguagens -->
     <a href="https://github.com/Html-Czllt?tab=languages">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Html-Czllt&theme=dark&hide_border=true" width="70%" alt="Html-Czllt's top languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Html-Czllt&theme=dark&hide_border=true" width="50%" alt="Html-Czllt's top languages"/>
     </a>
 </p>
